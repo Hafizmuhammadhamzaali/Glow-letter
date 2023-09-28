@@ -1,2 +1,2 @@
-# Glow-letter
+# Glow-letter project
 Letter
